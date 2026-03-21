@@ -1,0 +1,4 @@
+npx create-next-app@latest rs3-technology --typescript --app
+cd rs3-technology
+npm install tailwindcss postcss autoprefixer
+npx tailwindcss init -p
